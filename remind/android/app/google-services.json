@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943427998294",
+    "project_id": "remind-4ceea",
+    "storage_bucket": "remind-4ceea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943427998294:android:643a6cca4370b6aee7a1f7",
+        "android_client_info": {
+          "package_name": "com.example.remind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943427998294-u4352i0bkqeq81frrf0k7pmbu3n75at1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNm3lPjtrSx7Cj6Ea6qr3AsWlmT9yakE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943427998294-u4352i0bkqeq81frrf0k7pmbu3n75at1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
